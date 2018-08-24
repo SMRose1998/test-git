@@ -33,4 +33,8 @@ public class Die {
     public String toString(){
         return "d"+SIDES+" = "+current_face;
     }
+	
+	private void testGit(){
+		//Placeholder (v2.0)
+	}
 }

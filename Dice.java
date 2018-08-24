@@ -45,8 +45,8 @@ public class Dice {
         }
         
         
-        
-        
-        
-    }    
+    } 
+		private function f3(){
+			//Place holder v3
+		}
 }
